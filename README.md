@@ -57,7 +57,7 @@
 
   <br/>
  
-  <p>To complete this task I have found w3schools to be highliy resourceful. On this website I have read up on the properties of arrays, variables, strings, math, booleans, if else, switch, and the for loop amoung others. Another resource I have used is stack overflow, a website where you can ask or find the answer to your coding problems.<br/>
+  <p>To complete this task I have found my one-on-one tutoring session to be highly resourceful. Things we discussed included: prompt, confirm, aler and isNaN. Another resource I have used is w3schools. This website explains how to use Javascript, give examples and has exercises for you to complete.<br/>
  <br/>
   
   <br/>
@@ -66,11 +66,9 @@
  
   <br/>
 
-  <p>Below are screenshots of my financial analysis printed in the console.</p> 
+  <p>Below is a screenshot of my password generator</p> 
   
-  <img width="415" alt="Untitled" src="https://user-images.githubusercontent.com/118772733/211407470-45295532-5455-4968-9348-a9cacba27bd4.png">
-
-
+ 
 
   <br/>
    
@@ -84,7 +82,7 @@
   <br/>
   
   <ul>
-   <li>I have found this project the hardest task so far as more math has been needed. When I was able to get my head around the math, the task I hand became alot more digesttable</li>
-   <li>I had misread one of the requirements to begin with. To save time and to prevent doing this again, I will put more time into planning on the next project</li>
-   <li>.toFixed(2) makes a number display to 2 decimal places</li>
+   <li>I have found this project the hardest task so far as more math has been needed. This is the first assignment I have not completed for hand in day</li>
+   <li>To complete this task I will need to gain a better understanding of math.random, math.floor, and laying out fucntions</li>
+   
 

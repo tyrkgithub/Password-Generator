@@ -83,6 +83,7 @@
   
   <ul>
    <li>I have found this project the hardest task so far as more math has been needed. This is the first assignment I have not completed for hand in day</li>
-   <li>To complete this task I will need to gain a better understanding of math.random, math.floor, and laying out fucntions</li>
+  <li>I have not completed this task and will need to put aside specifc time to finish this as well as utilising my next one-on-one</li>
+   <li>To complete this task I will need to gain a better understanding of math.random, math.floor, and laying out functions</li>
    
 

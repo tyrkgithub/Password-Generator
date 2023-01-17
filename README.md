@@ -5,11 +5,11 @@
   
  <br/>
   <ul>
-    <li><a href="https://github.com/tyrkgithub/Console-Finances/blod/main/README.md#link">Link</a></li>
-    <li><a href="https://github.com/tyrkgithub/Console-Finances/blob/main/README.md#acceptance-criteria">User Story</a></li>
-    <li><a href="https://github.com/tyrkgithub/Console-Finances/blob/main/README.md#resources">Resources</a></li>
-    <li><a href="https://github.com/tyrkgithub/Console-Finances/blob/main/README.md#visual-references">Visual References</a></li>
-    <li><a href="https://github.com/tyrkgithub/Console-Finances/blob/main/README.md#notes">Notes</a></li>
+    <li><a href="https://github.com/tyrkgithub/Password-Generator/blob/main/README.md#link">Link</a></li>
+    <li><a href="https://github.com/tyrkgithub/Password-Generator/blob/main/README.md#acceptance-criteria">User Story</a></li>
+    <li><a href="https://github.com/tyrkgithub/Password-Generator/blob/main/README.md#resources">Resources</a></li>
+    <li><a href="https://github.com/tyrkgithub/Password-Generator/blob/main/README.md#visual-references">Visual References</a></li>
+    <li><a href="https://github.com/tyrkgithub/Password-Generator/blob/main/README.md#notes">Notes</a></li>
   
   </ul>
   <br/>
@@ -18,7 +18,7 @@
   
   <br/>
   
-  <p> Please find the link to my deployed application <a href="https://tyrkgithub.github.io/Console-Finances">here.</a> </p>
+  <p> Please find the link to my deployed application <a href="https://tyrkgithub.github.io/Password-Generator">here.</a> </p>
   
   <br/>
   
@@ -26,7 +26,7 @@
   
   <br/>
   
-  <p>A company have given me a dataset composed of arrays with two fields, Date and Profit/Losses. They wants me to create code which helps keeps track of their finances.<br/>
+  <p>A company has requested that I create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code.<br/>
   </p>
   
   <br/>
@@ -38,11 +38,17 @@
   <p>To meet the clients requirements I need to ensure:</p>
   
   <ul>
-    <li>The total number of months are calculated and displayed</li>
-    <li>The net total amount of Profit/Losses over the entire period are calculated and displayed</li>
-    <li>The average of the changes in Profit/Losses over the entire period are calculated and displayed</li>
-    <li>The greatest increase in profits (date and amount) over the entire period  are calculated and displayed</li>
-    <li>The greatest decrease in losses (date and amount) over the entire period are calculated and displayed</li>
+   <li>When the button is clicked a series of prompts for password criteria are presented.</li>
+   <li>The password criterias are whether these character types are included:</li>
+    <ul>
+     <li>Numbers</li>
+     <li>Uppercase</li>
+     <li>Lowercase</li>
+     <li>Special Characters</li>
+    </ul>
+   <li>After each prompt is selected, it should be validated with the user</li>
+   <li>At least one character type needs to be selected</li>
+  <li>The password should be generated and displayed in an alert or written to the page</li>
   </ul>
   
   <br/>

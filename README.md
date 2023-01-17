@@ -68,7 +68,8 @@
 
   <p>Below is a screenshot of my password generator</p> 
   
- 
+ <img width="618" alt="Untitled" src="https://user-images.githubusercontent.com/118772733/213035860-4433d3c7-b69f-4a95-933a-7bda46f9b922.png">
+
 
   <br/>
    

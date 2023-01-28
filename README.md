@@ -68,7 +68,8 @@
 
   <p>Below is a screenshot of my password generator</p> 
   
- 
+ <img width="618" alt="Untitled" src="https://user-images.githubusercontent.com/118772733/213035860-4433d3c7-b69f-4a95-933a-7bda46f9b922.png">
+
 
   <br/>
    
@@ -83,6 +84,7 @@
   
   <ul>
    <li>I have found this project the hardest task so far as more math has been needed. This is the first assignment I have not completed for hand in day</li>
-   <li>To complete this task I will need to gain a better understanding of math.random, math.floor, and laying out fucntions</li>
+  <li>I have not completed this task and will need to put aside specifc time to finish this as well as utilising my next one-on-one</li>
+   <li>To complete this task I will need to gain a better understanding of math.random, math.floor, and laying out functions</li>
    
 
